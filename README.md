@@ -2,8 +2,12 @@
 
 Assignment Project
 
-## Getting Started
+## To run the application
 
-To run the application , on main.dart file build the app on emulator or any device.
+1. Run pub get commnand
+2. on main.dart file , select run without debugging option
+3. app will be opened on your selected emulator
+
+
 
 
